@@ -1,0 +1,1 @@
+require 'aperture_ar/base'

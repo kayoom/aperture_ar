@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PresetGroups</key>
+	<array>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Name</key>
+			<string>Photo Descriptors</string>
+			<key>Presets</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>Action</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Action	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Portrait</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Portrait	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Landscape</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Landscape	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Indoor</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Indoor	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Outdoor</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Outdoor	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Close-up</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Close-up	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Headshot</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Headshot	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Full body</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Full body	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Group</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Group	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Conceptual</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Conceptual	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Silhouette</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Silhouette	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Still life</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Still life	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Day</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Day	Time	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Night</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Night	Time	Photo specs</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Name</key>
+			<string>People</string>
+			<key>Presets</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>Man</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Man	People	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Woman</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Woman	People	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Adults</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Adults	People	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Couple</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Couple	People	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Boy</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Boy	People	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Girl</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Girl	People	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Children</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Children	People	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Baby</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Baby	People	Stock categories</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Name</key>
+			<string>Stock Categories</string>
+			<key>Presets</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>Abstract</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Abstract	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Animals</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Animals	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Business</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Business	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>City</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>City	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Fine art</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Fine art	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Flowers</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Flowers	Details	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Food</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Food	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Glamour</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Glamour	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Holiday</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Holiday	Personal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Landscapes</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Landscapes	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Lifestyles</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Lifestyles	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Medical</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Medical	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Models</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Models	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Nature</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Nature	Photojournalism</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Outdoors</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Outdoors	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>People</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>People	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Science</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Science	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Sports</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Sports	Stock categories</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Still life</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Still life	Image type	Photo specs</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Technology</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Technology	Stock categories</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Name</key>
+			<string>Snapshots</string>
+			<key>Presets</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>Personal</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Personal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Home</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Home	Personal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Family</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Family	Personal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Kids</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Kids	Personal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Vacation</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Vacation	Personal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Backyard</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Backyard	Personal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Birthday</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Birthday	Personal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Holiday</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Holiday	Personal</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Name</key>
+			<string>Wedding (Details)</string>
+			<key>Presets</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>Architectural</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Architectural	Details	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Cake</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Cake	Details	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Clothes</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Clothes	Details	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Faces</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Faces	Details	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Flowers</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Flowers	Details	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Hands</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Hands	Details	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Rings</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Rings	Details	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Table setting</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Table setting	Details	Wedding</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Name</key>
+			<string>Wedding (Prep)</string>
+			<key>Presets</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>Preparations</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Preparations	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Dressing</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Dressing	Preparations	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Hair</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Hair	Preparations	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Flowers</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Flowers	Preparations	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Makeup</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Makeup	Preparations	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Decorations</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Decorations	Preparations	Wedding</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Name</key>
+			<string>Wedding</string>
+			<key>Presets</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>Preparations</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Preparations	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Ceremony</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Ceremony	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Vows</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Vows	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Reception</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Reception	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Portraiture</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Portraiture	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Bride</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Bride	Wedding party	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Groom</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Groom	Wedding party	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Maid of honor</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Maid of honor	Wedding party	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Bridesmaid</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Bridesmaid	Wedding party	Wedding</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>Groomsman</string>
+					<key>Tags</key>
+					<dict>
+						<key>0</key>
+						<string>Groomsman	Wedding party	Wedding</string>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>keywords_version</key>
+	<integer>6</integer>
+</dict>
+</plist>

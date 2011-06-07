@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DatabaseMinorVersion</key>
+	<integer>119</integer>
+	<key>DatabaseVersion</key>
+	<integer>110</integer>
+	<key>createDate</key>
+	<date>2011-06-07T08:49:41Z</date>
+	<key>databaseUuid</key>
+	<string>RF9eHE%jSxOIZdEuURpynQ</string>
+	<key>imageIOVersion</key>
+	<string>3.0.4</string>
+	<key>isIPhotoLibrary</key>
+	<false/>
+	<key>masterCount</key>
+	<integer>3</integer>
+	<key>projectCompatibleBackToVersion</key>
+	<integer>6</integer>
+	<key>projectVersion</key>
+	<integer>6</integer>
+	<key>rawCameraBundleVersion</key>
+	<string>569</string>
+	<key>versionCount</key>
+	<integer>6</integer>
+</dict>
+</plist>

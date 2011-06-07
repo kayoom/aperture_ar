@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>Application Version</key>
+	<string>3.1.2</string>
+	<key>Archive Path</key>
+	<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary</string>
+	<key>ArchiveId</key>
+	<string>1</string>
+	<key>Major Version</key>
+	<integer>2</integer>
+	<key>Minor Version</key>
+	<integer>0</integer>
+	<key>List of Albums</key>
+	<array>
+		<dict>
+			<key>AlbumId</key>
+			<integer>1</integer>
+			<key>AlbumName</key>
+			<string>Aperture</string>
+			<key>Album Type</key>
+			<string>98</string>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>2</integer>
+			<key>AlbumName</key>
+			<string>Aperture Library</string>
+			<key>Parent</key>
+			<integer>1</integer>
+			<key>Album Type</key>
+			<string>99</string>
+			<key>KeyList</key>
+			<array>
+				<string>99r4QsC2TR2ebj5b1JMDRw</string>
+				<string>tCM14MgVSzihTzYBOKG7yQ</string>
+				<string>Y7Ljg04bR0afRh+Mrsu7Ig</string>
+				<string>%EO1DuRTRQaCEasSewjK0Q</string>
+				<string>zYu7JeX6QfOT1PQnOveLiA</string>
+				<string>8wzq42D9R7GmFZ4HzDVsBw</string>
+			</array>
+			<key>Master</key>
+			<true/>
+			<key>PhotoCount</key>
+			<integer>6</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>3</integer>
+			<key>AlbumName</key>
+			<string>Library</string>
+			<key>Parent</key>
+			<integer>1</integer>
+			<key>Album Type</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>4</integer>
+			<key>AlbumName</key>
+			<string>Projects</string>
+			<key>Parent</key>
+			<integer>3</integer>
+			<key>Album Type</key>
+			<string>97</string>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>5</integer>
+			<key>uuid</key>
+			<string>allPhotosAlbum</string>
+			<key>AlbumName</key>
+			<string>Photos</string>
+			<key>Parent</key>
+			<integer>3</integer>
+			<key>Album Type</key>
+			<string>94</string>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>6</integer>
+			<key>uuid</key>
+			<string>flaggedAlbum</string>
+			<key>AlbumName</key>
+			<string>Flagged</string>
+			<key>Parent</key>
+			<integer>3</integer>
+			<key>Album Type</key>
+			<string>95</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+			</array>
+			<key>PhotoCount</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>7</integer>
+			<key>AlbumName</key>
+			<string>Library Albums</string>
+			<key>uuid</key>
+			<string>BuiltinSmartAlbums</string>
+			<key>Parent</key>
+			<integer>3</integer>
+			<key>Album Type</key>
+			<string>96</string>
+			<key>PhotoCount</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>8</integer>
+			<key>uuid</key>
+			<string>fiveStarAlbum</string>
+			<key>AlbumName</key>
+			<string>★★★★★</string>
+			<key>Parent</key>
+			<integer>7</integer>
+			<key>Album Type</key>
+			<string>3</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+			</array>
+			<key>PhotoCount</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>9</integer>
+			<key>uuid</key>
+			<string>oneStarAlbum</string>
+			<key>AlbumName</key>
+			<string>★ or better</string>
+			<key>Parent</key>
+			<integer>7</integer>
+			<key>Album Type</key>
+			<string>3</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+			</array>
+			<key>PhotoCount</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>10</integer>
+			<key>uuid</key>
+			<string>videosOnlyAlbum</string>
+			<key>AlbumName</key>
+			<string>Videos</string>
+			<key>Parent</key>
+			<integer>7</integer>
+			<key>Album Type</key>
+			<string>3</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+			</array>
+			<key>PhotoCount</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>11</integer>
+			<key>uuid</key>
+			<string>inTheLastWeekAlbum</string>
+			<key>AlbumName</key>
+			<string>In the Last Week</string>
+			<key>Parent</key>
+			<integer>7</integer>
+			<key>Album Type</key>
+			<string>3</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+				<string>%EO1DuRTRQaCEasSewjK0Q</string>
+				<string>zYu7JeX6QfOT1PQnOveLiA</string>
+				<string>8wzq42D9R7GmFZ4HzDVsBw</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>12</integer>
+			<key>uuid</key>
+			<string>inTheLastMonthAlbum</string>
+			<key>AlbumName</key>
+			<string>In the Last Month</string>
+			<key>Parent</key>
+			<integer>7</integer>
+			<key>Album Type</key>
+			<string>3</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+				<string>%EO1DuRTRQaCEasSewjK0Q</string>
+				<string>zYu7JeX6QfOT1PQnOveLiA</string>
+				<string>8wzq42D9R7GmFZ4HzDVsBw</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>13</integer>
+			<key>uuid</key>
+			<string>qYQcUtWtTnyLDAjMwtk7ZA</string>
+			<key>AlbumName</key>
+			<string>test_project1</string>
+			<key>Parent</key>
+			<integer>3</integer>
+			<key>Album Type</key>
+			<string>4</string>
+			<key>Sort Order</key>
+			<string>2</string>
+			<key>KeyPhotoKey</key>
+			<string>99r4QsC2TR2ebj5b1JMDRw</string>
+			<key>ProjectEarliestDateAsTimerInterval</key>
+			<real>329129709.74</real>
+			<key>KeyList</key>
+			<array>
+				<string>99r4QsC2TR2ebj5b1JMDRw</string>
+				<string>tCM14MgVSzihTzYBOKG7yQ</string>
+				<string>Y7Ljg04bR0afRh+Mrsu7Ig</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>14</integer>
+			<key>uuid</key>
+			<string>M2cyupFoQFWEZMDOJYFimA</string>
+			<key>AlbumName</key>
+			<string>test_project2</string>
+			<key>Parent</key>
+			<integer>3</integer>
+			<key>Album Type</key>
+			<string>4</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyPhotoKey</key>
+			<string>%EO1DuRTRQaCEasSewjK0Q</string>
+			<key>ProjectEarliestDateAsTimerInterval</key>
+			<real>329129874.93</real>
+			<key>KeyList</key>
+			<array>
+				<string>%EO1DuRTRQaCEasSewjK0Q</string>
+				<string>zYu7JeX6QfOT1PQnOveLiA</string>
+				<string>8wzq42D9R7GmFZ4HzDVsBw</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>Project List</key>
+	<array>
+		<dict>
+			<key>AlbumId</key>
+			<string>13</string>
+			<key>ProjectUuid</key>
+			<string>qYQcUtWtTnyLDAjMwtk7ZA</string>
+			<key>ProjectName</key>
+			<string>test_project1</string>
+			<key>ProjectEarliestDateAsTimerInterval</key>
+			<real>329129709.74</real>
+			<key>KeyPhotoKey</key>
+			<string>99r4QsC2TR2ebj5b1JMDRw</string>
+			<key>NumImages</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<string>14</string>
+			<key>ProjectUuid</key>
+			<string>M2cyupFoQFWEZMDOJYFimA</string>
+			<key>ProjectName</key>
+			<string>test_project2</string>
+			<key>ProjectEarliestDateAsTimerInterval</key>
+			<real>329129874.93</real>
+			<key>KeyPhotoKey</key>
+			<string>%EO1DuRTRQaCEasSewjK0Q</string>
+			<key>NumImages</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>Master Image List</key>
+	<dict>
+		<key>99r4QsC2TR2ebj5b1JMDRw</key>
+		<dict>
+			<key>Caption</key>
+			<string>rails</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>ImagePath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105508/99r4QsC2TR2ebj5b1JMDRw/rails.jpg</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>329129709.74</real>
+			<key>ThumbPath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105508/99r4QsC2TR2ebj5b1JMDRw/thumb_rails.jpg</string>
+		</dict>
+		<key>tCM14MgVSzihTzYBOKG7yQ</key>
+		<dict>
+			<key>Caption</key>
+			<string>pdf_icon</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>ImagePath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105517/tCM14MgVSzihTzYBOKG7yQ/pdf_icon.jpg</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>329129717.74</real>
+			<key>ThumbPath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105517/tCM14MgVSzihTzYBOKG7yQ/thumb_pdf_icon.jpg</string>
+		</dict>
+		<key>Y7Ljg04bR0afRh+Mrsu7Ig</key>
+		<dict>
+			<key>Caption</key>
+			<string>pdf_icon - Version 2</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>ImagePath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105517/Y7Ljg04bR0afRh+Mrsu7Ig/pdf_icon - Version 2.jpg</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>329129882.16</real>
+			<key>ThumbPath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105517/Y7Ljg04bR0afRh+Mrsu7Ig/thumb_pdf_icon - Version 2.jpg</string>
+		</dict>
+		<key>%EO1DuRTRQaCEasSewjK0Q</key>
+		<dict>
+			<key>Caption</key>
+			<string>flickr-yahoo-logo.png.v3</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>ImagePath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105754/%EO1DuRTRQaCEasSewjK0Q/flickr-yahoo-logo.png.v3.jpg</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>329129874.93</real>
+			<key>ThumbPath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105754/%EO1DuRTRQaCEasSewjK0Q/thumb_flickr-yahoo-logo.png.v3.jpg</string>
+		</dict>
+		<key>zYu7JeX6QfOT1PQnOveLiA</key>
+		<dict>
+			<key>Caption</key>
+			<string>flickr-yahoo-logo.png.v3 - Version 2</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>ImagePath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105754/zYu7JeX6QfOT1PQnOveLiA/flickr-yahoo-logo.png.v3 - Version 2.jpg</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>329129888.26</real>
+			<key>ThumbPath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105754/zYu7JeX6QfOT1PQnOveLiA/thumb_flickr-yahoo-logo.png.v3 - Version 2.jpg</string>
+		</dict>
+		<key>8wzq42D9R7GmFZ4HzDVsBw</key>
+		<dict>
+			<key>Caption</key>
+			<string>flickr-yahoo-logo.png.v3 - Version 3</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>ImagePath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105754/8wzq42D9R7GmFZ4HzDVsBw/flickr-yahoo-logo.png.v3 - Version 3.jpg</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>329138621.25</real>
+			<key>ThumbPath</key>
+			<string>/Users/mariantheisen/Projects/Kayoom/aperture_ar/spec/test_library.aplibrary/Previews/2011/06/07/20110607-105754/8wzq42D9R7GmFZ4HzDVsBw/thumb_flickr-yahoo-logo.png.v3 - Version 3.jpg</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

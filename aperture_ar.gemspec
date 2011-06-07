@@ -15,8 +15,10 @@ Gem::Specification.new do |s|
                     Dir["sdoc/**/*"] -
                     Dir["rcov/**/*"]
 
-  s.add_dependency 'activerecord', '~> 3.0.7'
+  s.add_dependency 'activerecord', '~> 3.0.0'
   s.add_dependency 'sqlite3'
+  s.add_dependency 'CFPropertyList'
+  s.add_dependency 'exifr'
 
   s.add_development_dependency 'rspec', '>= 2.6.0'
 end

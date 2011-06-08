@@ -26,7 +26,7 @@ module ApertureAr
     
     protected
     def load_exif_data
-      if File.exist? full_preview_path
+      if full_preview_path && File.exist? full_preview_path
         EXIFR::JPEG.new full_preview_path
       end
     end

@@ -13,7 +13,7 @@ module ApertureAr
     end
     
     def full_preview_path
-      @full_preview_path ||= File.join self.class.aperture_library, "Previews", preview_path
+      @full_preview_path ||= preview_path && File.join(self.class.aperture_library, "Previews", preview_path)
     end
     
     def jpg?
@@ -21,7 +21,14 @@ module ApertureAr
     end
     
     def exif
-      @exif ||= EXIFR::JPEG.new full_preview_path
+      @exif ||= load_exif_data
+    end
+    
+    protected
+    def load_exif_data
+      if File.exist? full_preview_path
+        EXIFR::JPEG.new full_preview_path
+      end
     end
   end
 end

@@ -43,6 +43,8 @@ module ApertureAr
         require 'aperture_ar/image_proxy_state'
         require 'aperture_ar/exif_string_property'
         require 'aperture_ar/exif_number_property'
+        require 'aperture_ar/folder'
+        require 'aperture_ar/stack_content'
       end
     end
   end
